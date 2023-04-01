@@ -34,3 +34,4 @@ The game code consists of two main files:
 4. Upload the appropriate Arduino code to the board using Arduino IDE.
 5. Open index.html in a web browser.
 
+![alt text](https://github.com/Drewe4401/project/blob/main/arduno%20image.png)
